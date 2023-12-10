@@ -1,0 +1,129 @@
+32T3K
+T55J5
+KK677
+KTJJT
+QQQJA
+
+
+
+
+Five of a kind
+Four of a kind
+Full house 
+Three of a kind = 2
+Two pair = 2 [(KK677), (KTJJT)]
+One pair = 1 [(KK677), (KTJJT)]
+
+(32T3K)
+maxOccurence = 2
+maxOccurenceCards = {3}
+secondMaxOccurence = 1
+secondMaxOccurenceCards = {2,T,K}
+
+
+(T55J5)
+maxOccurence = 3
+maxOccurenceCards = {5}
+secondMaxOccurence = 1
+secondMaxOccurenceCards = {T,J}
+
+
+(KK677)
+maxOccurence = 2
+maxOccurenceCards = {K,7}
+secondMaxOccurence = 1
+secondMaxOccurenceCards = {6}
+
+
+(KTJJT)
+maxOccurence = 2
+maxOccurenceCards = {J,T}
+secondMaxOccurence = 1
+secondMaxOccurenceCards = {K}
+
+(QQQJA)
+maxOccurence = 3
+maxOccurenceCards = {Q}
+secondMaxOccurence = 1
+secondMaxOccurenceCards = {J,A}
+
+
+
+
+
+Je dois pas passer là avec [2 5 2 2 2]
+Je dois pas passer là avec [2 2 J 2 2]
+Je dois pas passer là avec [2 2 2 6 2]
+Je dois pas passer là avec [9 9 9 9 2]
+Je dois pas passer là avec [2 2 2 4 2]
+Je dois pas passer là avec [2 2 K 2 2]
+Je dois pas passer là avec [2 2 7 2 2]
+Je dois pas passer là avec [2 2 2 9 2]
+Je dois pas passer là avec [8 2 2 2 2]
+Je dois pas passer là avec [2 2 A 2 2]
+Je dois pas passer là avec [3 9 3 3 3]
+Je dois pas passer là avec [7 7 7 7 3]
+Je dois pas passer là avec [3 3 3 2 3]
+Je dois pas passer là avec [3 3 K 3 3]
+Je dois pas passer là avec [A 3 3 3 3]
+Je dois pas passer là avec [3 3 3 6 3]
+Je dois pas passer là avec [3 Q 3 3 3]
+Je dois pas passer là avec [4 4 4 4 3]
+Je dois pas passer là avec [3 4 3 3 3]
+Je dois pas passer là avec [8 3 3 3 3]
+Je dois pas passer là avec [5 5 5 5 3]
+Je dois pas passer là avec [4 9 4 4 4]
+Je dois pas passer là avec [Q 4 4 4 4]
+Je dois pas passer là avec [J 4 4 4 4]
+Je dois pas passer là avec [T 4 4 4 4]
+Je dois pas passer là avec [K 4 4 4 4]
+Je dois pas passer là avec [5 4 4 4 4]
+Je dois pas passer là avec [A 5 5 5 5]
+Je dois pas passer là avec [5 5 6 5 5]
+Je dois pas passer là avec [5 5 5 J 5]
+Je dois pas passer là avec [5 2 5 5 5]
+Je dois pas passer là avec [3 3 3 3 5]
+Je dois pas passer là avec [5 5 T 5 5]
+Je dois pas passer là avec [6 6 K 6 6]
+Je dois pas passer là avec [6 6 6 4 6]
+Je dois pas passer là avec [6 6 6 9 6]
+Je dois pas passer là avec [6 6 6 T 6]
+Je dois pas passer là avec [6 8 6 6 6]
+Je dois pas passer là avec [5 6 6 6 6]
+Je dois pas passer là avec [6 6 Q 6 6]
+Je dois pas passer là avec [3 6 6 6 6]
+Je dois pas passer là avec [4 7 7 7 7]
+Je dois pas passer là avec [T 7 7 7 7]
+Je dois pas passer là avec [7 7 7 J 7]
+Je dois pas passer là avec [7 7 7 Q 7]
+Je dois pas passer là avec [7 K 7 7 7]
+Je dois pas passer là avec [7 7 7 9 7]
+Je dois pas passer là avec [8 2 8 8 8]
+Je dois pas passer là avec [8 T 8 8 8]
+Je dois pas passer là avec [A 8 8 8 8]
+Je dois pas passer là avec [8 8 3 8 8]
+Je dois pas passer là avec [Q Q Q Q 8]
+Je dois pas passer là avec [8 8 5 8 8]
+Je dois pas passer là avec [8 8 6 8 8]
+Je dois pas passer là avec [7 8 8 8 8]
+Je dois pas passer là avec [8 Q 8 8 8]
+Je dois pas passer là avec [7 7 7 7 8]
+Je dois pas passer là avec [8 8 J 8 8]
+Je dois pas passer là avec [9 6 9 9 9]
+Je dois pas passer là avec [A 9 9 9 9]
+Je dois pas passer là avec [9 5 9 9 9]
+Je dois pas passer là avec [9 Q 9 9 9]
+Je dois pas passer là avec [9 9 T 9 9]
+Je dois pas passer là avec [K 9 9 9 9]
+Je dois pas passer là avec [8 9 9 9 9]
+Je dois pas passer là avec [T 4 T T T]
+Je dois pas passer là avec [T T 9 T T]
+Je dois pas passer là avec [3 T T T T]
+Je dois pas passer là avec [6 T T T T]
+Je dois pas passer là avec [T T A T T]
+Je dois pas passer là avec [J T T T T]
+Je dois pas passer là avec [K K K K Q]
+Je dois pas passer là avec [Q A Q Q Q]
+Je dois pas passer là avec [Q J Q Q Q]
+Je dois pas passer là avec [K 3 K K K]
+Je dois pas passer là avec [K 6 K K K]
