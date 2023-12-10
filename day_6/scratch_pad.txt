@@ -1,0 +1,14 @@
+Time 15
+Distance 40
+
+
+f(x) >= DISTANCE <=>  x * (- x + TIME ) >= DISTANCE <=> -X² + TIME * X   >= DISTANCE <=> -X² + TIME * X - DISTANCE >= 0
+
+-1 X² + TIME * X -DISTANCE
+Δ = b² - 4ac = TIME² - (4*-1*-DISTANCE) = 15² - (4*-1*-40) = 65
+
+X1 = (-15 - sqrt(65)) / 2 * - 1 = (-15 - sqrt(65)) / -2
+X1 = (-15 + sqrt(65)) / 2 * - 1 = (-15 + sqrt(65)) / -2
+
+[-∞, x1] ]x1,x2[ [x2, +∞]
+  <= 0      >0      <=0
